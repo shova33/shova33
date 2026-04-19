@@ -1,6 +1,10 @@
 # 💫 About Me:
-• 🔭 currently studying Btech in AI at kathmandu University and building AI projects & trying to make them actually work 😭<br>• 👯 open to collab on cool AI ideas that aren’t boring<br>• 🤝 need help with leveling up from “it works” → “it’s actually good”<br>• 🌱 learning deep learning, NLP & how not to overfit (in models & life)<br>• 💬 ask me about AI basics, projects, or content creation journey<br>• ⚡ fun fact my bugs become my content 😌🎬
-
+• 🔭 currently pursuing BTech in AI at Kathmandu University, focused on building practical AI projects<br>
+• 👯 open to collaborating on impactful and real-world AI solutions<br>
+• 🤝 working on improving project quality from functional → production-ready<br>
+• 🌱 learning deep learning, NLP, and model optimization techniques<br>
+• 💬 ask me about AI fundamentals, projects, and problem-solving approaches<br>
+• ⚡ fun fact: I enjoy debugging and turning challenges into learning opportunities
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shova-gelal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shovgaelal392@gmail.com) 
